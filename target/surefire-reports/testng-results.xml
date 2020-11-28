@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Appium_Testing.Appium_Testing.NewTest" duration-ms="44808" started-at="2020-11-28T10:47:08Z" finished-at="2020-11-28T10:47:53Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="44808" started-at="2020-11-28T10:47:08Z" finished-at="2020-11-28T10:47:53Z">
+      <class name="Appium_Testing.Appium_Testing.NewTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:Appium_Testing.Appium_Testing.NewTest@735f7ae5]" name="beforeClass" is-config="true" duration-ms="19339" started-at="2020-11-28T16:32:08Z" finished-at="2020-11-28T16:32:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="Preference()[pri:0, instance:Appium_Testing.Appium_Testing.NewTest@735f7ae5]" name="Preference" duration-ms="5426" started-at="2020-11-28T16:32:28Z" finished-at="2020-11-28T16:32:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Preference -->
+        <test-method status="PASS" signature="Closing()[pri:0, instance:Appium_Testing.Appium_Testing.NewTest@735f7ae5]" name="Closing" is-config="true" duration-ms="923" started-at="2020-11-28T16:32:33Z" finished-at="2020-11-28T16:32:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closing -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:Appium_Testing.Appium_Testing.NewTest@735f7ae5]" name="beforeClass" is-config="true" duration-ms="15964" started-at="2020-11-28T16:32:34Z" finished-at="2020-11-28T16:32:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="view()[pri:0, instance:Appium_Testing.Appium_Testing.NewTest@735f7ae5]" name="view" duration-ms="2360" started-at="2020-11-28T16:32:50Z" finished-at="2020-11-28T16:32:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- view -->
+        <test-method status="PASS" signature="Closing()[pri:0, instance:Appium_Testing.Appium_Testing.NewTest@735f7ae5]" name="Closing" is-config="true" duration-ms="775" started-at="2020-11-28T16:32:52Z" finished-at="2020-11-28T16:32:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closing -->
+      </class> <!-- Appium_Testing.Appium_Testing.NewTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Appium_Testing.Appium_Testing.NewTest -->
+</testng-results>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="71037" started-at="2020-11-28T12:59:15Z" finished-at="2020-11-28T13:00:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="71037" started-at="2020-11-28T12:59:15Z" finished-at="2020-11-28T13:00:26Z">
+      <class name="Appium_Testing.Appium_Testing.NewTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:Appium_Testing.Appium_Testing.NewTest@61832929]" name="beforeClass" is-config="true" duration-ms="18291" started-at="2020-11-28T18:44:15Z" finished-at="2020-11-28T18:44:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="Preference()[pri:0, instance:Appium_Testing.Appium_Testing.NewTest@61832929]" name="Preference" duration-ms="4736" started-at="2020-11-28T18:44:33Z" finished-at="2020-11-28T18:44:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Preference -->
+        <test-method status="PASS" signature="Closing()[pri:0, instance:Appium_Testing.Appium_Testing.NewTest@61832929]" name="Closing" is-config="true" duration-ms="805" started-at="2020-11-28T18:44:38Z" finished-at="2020-11-28T18:44:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closing -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:Appium_Testing.Appium_Testing.NewTest@61832929]" name="beforeClass" is-config="true" duration-ms="16177" started-at="2020-11-28T18:44:39Z" finished-at="2020-11-28T18:44:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="swipeclock()[pri:0, instance:Appium_Testing.Appium_Testing.NewTest@61832929]" name="swipeclock" duration-ms="3809" started-at="2020-11-28T18:44:55Z" finished-at="2020-11-28T18:44:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- swipeclock -->
+        <test-method status="PASS" signature="Closing()[pri:0, instance:Appium_Testing.Appium_Testing.NewTest@61832929]" name="Closing" is-config="true" duration-ms="1290" started-at="2020-11-28T18:44:59Z" finished-at="2020-11-28T18:45:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closing -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:Appium_Testing.Appium_Testing.NewTest@61832929]" name="beforeClass" is-config="true" duration-ms="17964" started-at="2020-11-28T18:45:00Z" finished-at="2020-11-28T18:45:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="view()[pri:0, instance:Appium_Testing.Appium_Testing.NewTest@61832929]" name="view" duration-ms="7067" started-at="2020-11-28T18:45:18Z" finished-at="2020-11-28T18:45:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- view -->
+        <test-method status="PASS" signature="Closing()[pri:0, instance:Appium_Testing.Appium_Testing.NewTest@61832929]" name="Closing" is-config="true" duration-ms="863" started-at="2020-11-28T18:45:25Z" finished-at="2020-11-28T18:45:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closing -->
+      </class> <!-- Appium_Testing.Appium_Testing.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
